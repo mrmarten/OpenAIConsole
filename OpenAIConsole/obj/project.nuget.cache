@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FjBF7dPninxnmoZ8A9A+WhmbQDKKGDal0xBSMOyvEBM8R7GgJO9BXw2voSPrnIMZ51zOue1l2r26Lk7pQEuTqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\OpenAIConsole\\OpenAIConsole\\OpenAIConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\openai\\1.2.0\\openai.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
